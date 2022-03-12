@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+## Live demo of the project [Random Quote Generator](https://6229a2a478424e15f3922f15--randomquotestoshare.netlify.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
